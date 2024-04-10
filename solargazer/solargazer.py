@@ -107,7 +107,7 @@ class SolarGazer:
                     "\\end{tablenotes}\n" \
                     "\\end{threeparttable}\n"
         
-        return latex_str
+        return latex_str.replace('_','\_')
 
     def make_table(self, model_list, model_names, groupings = None, drop_fe_rows = False):
         df = self.create_merged_table(model_list, model_names, drop_fe_rows = drop_fe_rows)
