@@ -4,7 +4,7 @@
 
 solargazer is an extremely simple library designed to offer additional functionalities relative to stargazer for Latex table generation in Python. The library is compatible with the PanelOLS class from statsmodels for clean tables in Latex. 
 
-IMPORTANT: Follow this Colab tutorial notebook for the easiest setup guide: https://colab.research.google.com/drive/1tshfY-2al7asU7pTFvFFg1n4NSvLXtZg?usp=sharing
+IMPORTANT: Follow this Colab tutorial notebook for the easiest setup guide: https://colab.research.google.com/drive/1s9IpYR2xxvgrQBbqTk9GKFTPutxAgMMU?usp=sharing
 
 ## Installation
 
